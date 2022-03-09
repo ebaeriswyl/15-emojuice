@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 320px;
+  margin: auto;
+  background-color: brown;
+}
+
+.picture-background {
+  background-image: url(../img/fond-fruit.webp);
+}
