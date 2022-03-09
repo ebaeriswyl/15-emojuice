@@ -35,3 +35,13 @@ header div {
   margin-left: 58px;
   opacity: 1;
 }
+
+.button-product {
+  background-color: #57BB6B;
+  color: white;
+  padding: 26px 13px;
+  margin: 18px 42px;
+  font-family: 'Maven Pro';
+  font-size: 20px;
+  border-radius: 15px;
+}
