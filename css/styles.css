@@ -5,7 +5,7 @@ html {
 body {
   max-width: 380px;
   margin: auto;
-  background-color: green;
+  background-color: #57BB6B;
   margin-top: 8px;
 }
 
@@ -14,13 +14,17 @@ body {
   padding: 30px;
 }
 
-/* header {
-  margin-top: 8px;
-} */
-
 header h1 {
   font-family: 'Quattrocento';
+  text-align: center;
   font-size: 20px;
+  padding: 0px 58px 30px 58px;
+  color: #57BB6B;
+}
+
+header div {
+  background-color: white;
+  opacity: 0.9;
 }
 
 .logotype {
@@ -29,9 +33,5 @@ header h1 {
   margin-right: 58px;
   margin-bottom: 15px;
   margin-left: 58px;
-
-}
-
-header div {
-  background-color: white;
+  opacity: 1;
 }
