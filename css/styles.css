@@ -118,13 +118,16 @@ article img {
   height: 80px;
 }
 
-.banana {
-  background-color: #FFF8D7;
+article {
   padding: 38px;
   padding-bottom: 30px;
 }
 
-.little-banana {
+.banana {
+  background-color: #FFF8D7;
+}
+
+.fruits-anchor {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -134,11 +137,9 @@ article img {
 
 .kiwi {
   background-color: #C4F2AD;
-  padding: 38px;
-  padding-bottom: 30px;
 }
 
-.little-kiwi {
+.fruits-anchor {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -148,11 +149,9 @@ article img {
 
 .coffe {
   background-color: #D3C6B2;
-  padding: 38px;
-  padding-bottom: 30px;
 }
 
-.little-coffe {
+.fruits-anchor {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -162,11 +161,9 @@ article img {
 
 .strawberry {
   background-color: #F7A4B4;
-  padding: 38px;
-  padding-bottom: 30px;
 }
 
-.little-strawberry {
+.fruits-anchor {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
