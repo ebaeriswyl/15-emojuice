@@ -159,3 +159,17 @@ article img {
   align-items: flex-end;
   margin-top: 50px;
 }
+
+.strawberry {
+  background-color: #F7A4B4;
+  padding: 38px;
+  padding-bottom: 30px;
+}
+
+.little-strawberry {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 50px;
+}
