@@ -81,15 +81,28 @@ header div {
 
 .page-fruits {
   background-color: #57BB6B;
-  font-size: 16pt;
-  margin-top: 28px;
+  margin-right: 28px;
   margin-top: 32px;
   margin-left: 28px;
+}
+
+.page-fruits h1 {
+  font-size: 26pt;
+  text-align: center;
+  font-family: 'Maven Pro';
+  font-weight: bold;
 }
 
 .page-fruits h2 {
   font-size: 30pt;
   font-family: 'Sriracha';
+  margin: 0px;
+}
+
+.page-fruits p {
+  font-size: 16pt;
+  font-family: 'Quattrocento';
+  margin: 0px;
 }
 
 .banana {
