@@ -145,3 +145,17 @@ article img {
   align-items: flex-end;
   margin-top: 50px;
 }
+
+.coffe {
+  background-color: #D3C6B2;
+  padding: 38px;
+  padding-bottom: 30px;
+}
+
+.little-coffe {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 50px;
+}
