@@ -80,5 +80,20 @@ header div {
 }
 
 .page-fruits {
-  background-color: blue;
+  background-color: #57BB6B;
+  font-size: 16pt;
+  margin-top: 28px;
+  margin-top: 32px;
+  margin-left: 28px;
+}
+
+.page-fruits h2 {
+  font-size: 30pt;
+  font-family: 'Sriracha';
+}
+
+.banana {
+  background-color: #FFF8D7;
+  padding: 38px;
+  padding-bottom: 30px;
 }
