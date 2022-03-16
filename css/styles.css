@@ -123,8 +123,7 @@ article {
   padding: 38px;
   padding-bottom: 30px;
   margin-bottom: 42px;
-  border-radius: 22px;
-  box-shadow: initial 2px 2px 2px 2px black 
+  border-radius: 22px; 
 }
 
 .fruits-anchor {
@@ -149,4 +148,48 @@ article {
 
 .strawberry {
   background-color: #F7A4B4;
+}
+
+footer {
+  background-color: white;
+}
+
+footer h1 {
+  font-family: 'Maven Pro';
+  font-style: bold;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 42px;
+  margin-bottom: 33px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  background-color: #57BB6B;
+  padding: 12px 22px;
+  border-radius: 15px;
+  margin-bottom: 13px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Maven Pro';
+}
+
+footer p {
+  color: #57BB6B;
+  font-family: 'Maven Pro';
+  font-style: bold;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 64px;
+  margin-right: 83px;
+  margin-bottom: 0px;
+  margin-left: 83px;
+  padding-bottom: 40px;
 }
