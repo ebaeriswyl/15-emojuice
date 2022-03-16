@@ -58,7 +58,7 @@ header div {
   padding-bottom: 27px;
   padding-left: 68px;
   text-align: center;
-  font-weight: bold;
+  font-style: bold;
 }
 
 .introduction p {
@@ -91,7 +91,7 @@ header div {
   font-size: 26px;
   text-align: center;
   font-family: 'Maven Pro';
-  font-weight: bold;
+  font-style: bold;
 }
 
 .page-fruits h2 {
@@ -107,8 +107,27 @@ header div {
   opacity: 0.8;
 }
 
+.page-fruits a {
+  font-size: 14px;
+  font-family: 'Maven Pro';
+  font-style: bold;
+  color: black;
+}
+
 .banana {
   background-color: #FFF8D7;
   padding: 38px;
   padding-bottom: 30px;
+}
+
+.little-banana img {
+  height: 65px;
+}
+
+.little-banana {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 50px;
 }
