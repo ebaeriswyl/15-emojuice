@@ -92,6 +92,7 @@ header div {
   text-align: center;
   font-family: 'Maven Pro';
   font-style: bold;
+  margin-bottom: 34px;
 }
 
 .page-fruits h2 {
@@ -121,52 +122,31 @@ article img {
 article {
   padding: 38px;
   padding-bottom: 30px;
+  margin-bottom: 42px;
+  border-radius: 22px;
+  box-shadow: initial 2px 2px 2px 2px black 
+}
+
+.fruits-anchor {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 50px;
 }
 
 .banana {
   background-color: #FFF8D7;
 }
 
-.fruits-anchor {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-end;
-  margin-top: 50px;
-}
-
 .kiwi {
   background-color: #C4F2AD;
-}
-
-.fruits-anchor {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-end;
-  margin-top: 50px;
 }
 
 .coffe {
   background-color: #D3C6B2;
 }
 
-.fruits-anchor {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-end;
-  margin-top: 50px;
-}
-
 .strawberry {
   background-color: #F7A4B4;
-}
-
-.fruits-anchor {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-end;
-  margin-top: 50px;
 }
