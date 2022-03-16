@@ -114,17 +114,31 @@ header div {
   color: black;
 }
 
+article img {
+  height: 80px;
+}
+
 .banana {
   background-color: #FFF8D7;
   padding: 38px;
   padding-bottom: 30px;
 }
 
-.little-banana img {
-  height: 65px;
+.little-banana {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 50px;
 }
 
-.little-banana {
+.kiwi {
+  background-color: #C4F2AD;
+  padding: 38px;
+  padding-bottom: 30px;
+}
+
+.little-kiwi {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
