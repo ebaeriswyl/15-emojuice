@@ -36,12 +36,35 @@ header div {
   opacity: 1;
 }
 
-.button-product {
+/* .button-product {
   background-color: #57BB6B;
   color: white;
   padding: 26px 13px;
-  margin: 18px 42px;
+  margin: 42px 42px;
   font-family: 'Maven Pro';
   font-size: 20px;
-  border-radius: 15px;
+  border-radius: 28px;
+} */
+
+.introduction {
+  background-color: white;
+  padding-top: 97px;
+}
+
+.introduction h1{
+  font-size: 26px;
+  font-family: 'Maven Pro';
+  padding-right: 74px;
+  padding-bottom: 27px;
+  padding-left: 74px;
+  text-align: center;
+}
+
+.introduction p {
+  font-size: 16px;
+  font-family: 'Quattrocento';
+  padding-right: 74px;
+  padding-bottom: 27px;
+  padding-left: 74px;
+  text-align: center;
 }
