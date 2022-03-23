@@ -278,3 +278,10 @@ footer .fruits {
   padding-bottom: 60px;
 }
 
+.other-product h1 {
+  font-size: 26px;
+  font-family: 'Maven Pro';
+  font-style: bold;
+  text-align: center;
+  padding-top: 50px;
+}
