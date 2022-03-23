@@ -233,3 +233,48 @@ footer .fruits {
   border-radius: 100%;
   background-color: white;
 }
+
+.info-kiwi {
+  color: white;
+}
+
+.info-kiwi h1 {
+  font-size: 26px; 
+  font-family: 'Maven Pro';
+  font-style: bold;
+  margin-top: 65px60px;
+  margin-left: 70px;
+  margin-bottom: 48px;
+}
+
+.info-kiwi p {
+  font-size: 16px;
+  font-family: 'Quattrocento';
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.info-kiwi img {
+  margin-top: 50px;
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 38px;
+}
+
+.info-kiwi h2 {
+  font-size: 18px;
+  font-family: 'Quattrocento';
+  font-style: bold;
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 23px;
+}
+
+.info-kiwi ul {
+  font-size: 16px;
+  font-family: 'Quattrocento';
+  margin-left: 90px;
+  padding-left: 0px;
+  padding-bottom: 60px;
+}
+
