@@ -20,6 +20,7 @@ header h1 {
   font-size: 20px;
   padding: 0px 47px 30px 47px;
   color: #57BB6B;
+  margin-bottom: 0px;
 }
 
 header div {
@@ -197,4 +198,38 @@ footer p {
 
 footer .fruits {
   padding-bottom: 44px;
+}
+
+.product {
+  background-color: #C4F2AD;
+}
+
+.sirup-kiwi{
+  padding-bottom: 70px;
+}
+
+.sirup-kiwi h1 {
+  font-size: 30px;
+  font-family: 'Sriracha';
+  text-align: center;
+  padding-top: 65px;
+  margin: 0px;
+}
+
+.sirup-kiwi p {
+  font-size: 16px;
+  font-family: 'Quattrocento';
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 45px;
+}
+
+.sirup-kiwi img {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 35px;
+  border-radius: 100%;
+  background-color: white;
 }
