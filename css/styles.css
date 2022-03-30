@@ -285,3 +285,25 @@ footer .fruits {
   text-align: center;
   padding-top: 50px;
 }
+
+.other-product img {
+  height: 55px;
+}
+
+div .sweet .sweet-strawberry{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+}
+
+.strawberry-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #F7A4B4;
+}
+
+h2 .product {
+  font-family: 'Sriracha';
+  font-size: 20px;
+}
